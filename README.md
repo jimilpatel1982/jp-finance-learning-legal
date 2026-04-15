@@ -9,7 +9,7 @@ It exists solely to host **privacy policy and related legal pages** on a publicl
 ## 📄 What is in this repository?
 
 - `docs/privacy.html`  
-  A static HTML version of the Privacy Policy for the **Portfolio Management App**.
+  A static HTML version of the Privacy Policy for the **MoneyMap App**.
 
 This page is designed to be:
 - Human‑readable
