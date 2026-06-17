@@ -10,6 +10,7 @@ It exists solely to host **privacy policy and related legal pages** on a publicl
 
 - `docs/privacy.html`  
   A static HTML version of the Privacy Policy for the **MoneyMap Pulse App**.
+  Public link to privacy policy: https://jimilpatel1982.github.io/jp-finance-learning-legal/index.html
 
 This page is designed to be:
 - Human‑readable
